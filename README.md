@@ -56,3 +56,7 @@ email: skantay03.business@gmail.com
     <a href="https://postman.com"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://www.figma.com/"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
+
+<div>
+  <img src="https://leetcard.jacoblin.cool/skantay?ext=heatmap"/>  
+</div>
