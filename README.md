@@ -6,6 +6,8 @@
   - A little bit of front-end development
   - Cyber security
   - Competitive programming
+ 
+email: skantay03.business@gmail.com
 
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=skantay&" alt="skantay" />
