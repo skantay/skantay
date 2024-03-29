@@ -14,6 +14,6 @@ email: skantay03.business@gmail.com
 </div>
 
 <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=skantay&column=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=skantay&rank=SSS,SS,S,AAA,AA,A" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skantay&show_icons=true&locale=en&layout=compact" alt="skantay" />
 </div>
