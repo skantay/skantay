@@ -3,7 +3,6 @@
 - 🏗️ My passion is clean code and clean architecture 
 - 😍 Interested in
   - Back-end development
-  - A little bit of front-end development
   - Cyber security
   - Competitive programming
  
