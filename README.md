@@ -5,6 +5,7 @@
   - Back-end development
   - Cyber security
   - Competitive programming
+  - Big Data, ML, AI
  
 email: skantay03.business@gmail.com
 
