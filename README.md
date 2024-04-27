@@ -7,7 +7,7 @@
   - Competitive programming
   - Big Data, ML, AI
  
-email: skantay03.business@gmail.com
+discord: na1za
 
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=skantay&rank=SSS,SS,S,AAA,AA,A" />
